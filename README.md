@@ -1,7 +1,7 @@
 # yed_java
 A small library for drawing graphs in java. The library is an implementation of an [already existing library](https://github.com/true-grue/yed_py) written in python.
 Example of work:
-```
+```java
 YedApi graph = new YedApi();
 ArrayList<Map<String, String>> nodes = new ArrayList<>();
 Random rand = new Random();
