@@ -1,5 +1,5 @@
 # yed_java
-A small library for drawing graphs in java. The library is an implementation of an [already existing library](#https://github.com/true-grue/yed_py) written in python.
+A small library for drawing graphs in java. The library is an implementation of an [already existing library](https://github.com/true-grue/yed_py) written in python.
 Example of work:
 ```
 YedApi graph = new YedApi();
